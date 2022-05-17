@@ -1,2 +1,2 @@
 # phyton
- Curso de phyton para data science alura
+ Material de estudo de phyton
